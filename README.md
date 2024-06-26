@@ -1,2 +1,3 @@
 # hello.word
 "This repository is for practicing the GitHub Flow."
+# I am learning how to code as an adult with a family and bills that take most of my money but even though I never thought I would I am here so if I can do it you can too... ! Feels amazing...
